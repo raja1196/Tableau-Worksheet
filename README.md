@@ -20,12 +20,12 @@ Visit [Tableau](https://www.tableau.com/products/trial) to download tableau Desk
 * open new sheet to visualize the dataset.
 
 ## Visualization
-![alt text](https://github.ncsu.edu/rthiruv/Tableau-Worksheet/blob/master/Dashboard%201.jpg)
+![alt text](https://github.com/raja1196/Tableau-Worksheet/blob/master/Dashboard%201.jpg)
 
 
 ## Authors
 
-* **Rajaram Sivaramakrishnan** - [rthiruv](https://github.ncsu.edu/rthiruv)
+* **Rajaram Sivaramakrishnan** - [raja1196](https://github.com/raja1196)
 
 ## License
 
